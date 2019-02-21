@@ -67,11 +67,11 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:contentDescription="@string/new_course_content"
-                android:paddingLeft="@dimen/widget_margin_half"
                 android:paddingStart="@dimen/widget_margin_half"
+                android:paddingLeft="@dimen/widget_margin_half"
                 android:text="@string/new_course_content"
                 android:textAllCaps="true"
-                android:textColor="@color/edx_brand_primary_accent"
+                android:textColor="@android:color/holo_orange_dark"
                 android:textSize="@dimen/edx_x_small"
                 tools:targetApi="17" />
         </LinearLayout>

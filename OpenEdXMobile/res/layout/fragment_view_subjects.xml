@@ -14,6 +14,7 @@
             android:id="@+id/sv_search_subjects"
             style="@style/launch_search_bar"
             android:layout_marginBottom="@dimen/widget_margin"
+            android:background="@color/edx_success_accent"
             android:imeOptions="flagNoFullscreen|flagNoExtractUi"
             app:queryHint="@string/search_subjects"
             app:theme="@style/search_view_theme" />

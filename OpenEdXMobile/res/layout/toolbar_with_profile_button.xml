@@ -32,6 +32,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="@dimen/courses_title_text_left_margin"
             android:layout_marginEnd="@dimen/courses_profile_icon_left_margin"
+            android:textColor="@color/edx_success_text"
             tools:text="Screen title" />
 
         <LinearLayout
