@@ -47,7 +47,7 @@
                 android:id="@+id/tv_title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textColor="@color/edx_brand_primary_base"
+                android:textColor="@android:color/holo_orange_dark"
                 android:textSize="@dimen/edx_small"
                 tools:text="1 of 17 Videos Downloaded" />
 
@@ -56,7 +56,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="@dimen/bulk_download_description_top_margin"
-                android:textColor="@color/edx_brand_gray_accent"
+                android:textColor="@color/common_google_signin_btn_text_light_pressed"
                 android:textSize="@dimen/edx_small"
                 tools:text="5.5MB of 67.5MB total" />
 

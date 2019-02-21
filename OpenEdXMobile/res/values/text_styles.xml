@@ -102,6 +102,9 @@
     <style name="bold_white_text" parent="@style/bold_text">
         <item name="android:textColor">@android:color/white</item>
     </style>
+    <style name="bold_orange_text" parent="@style/bold_text">
+        <item name="android:textColor">@android:color/holo_orange_light</item>
+    </style>
 
     <style name="semibold_white_text" parent="@style/semibold_text">
         <item name="android:textColor">@android:color/white</item>

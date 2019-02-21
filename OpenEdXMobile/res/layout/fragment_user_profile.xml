@@ -34,9 +34,9 @@
                     android:id="@+id/name_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="@dimen/widget_margin"
                     android:layout_marginTop="@dimen/widget_margin"
-                    android:textColor="@color/edx_brand_primary_base"
+                    android:layout_marginBottom="@dimen/widget_margin"
+                    android:textColor="@android:color/holo_orange_dark"
                     android:textSize="@dimen/edx_xx_large"
                     tools:text="username" />
 
@@ -105,7 +105,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="@dimen/x_small_icon_margin"
-                        android:textColor="@color/edx_brand_primary_accent"
+                        android:textColor="@color/edx_success_accent"
                         android:textSize="@dimen/edx_x_small"
                         android:visibility="gone"
                         tools:text="@string/profile_sharing_limited_by_you"

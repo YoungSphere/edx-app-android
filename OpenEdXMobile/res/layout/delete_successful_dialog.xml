@@ -61,7 +61,7 @@
             android:layout_height="35dip"
             android:layout_gravity="center|center_horizontal"
             android:layout_weight="0.5"
-            android:background="@android:color/white"
+            android:background="@color/edx_success_accent"
             android:text="@string/label_ok"
             android:textAllCaps="true"
             android:textSize="15sp" />
